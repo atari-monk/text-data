@@ -385,8 +385,8 @@
     "task": "clean projects",
     "estimate_minutes": 30,
     "start_time": "21:56",
-    "end_time": "",
-    "actual_minutes": 0,
-    "notes": []
+    "end_time": "00:35",
+    "actual_minutes": 159,
+    "notes": ["moved scripts to py-scripting, moved data to text-data repo"]
   }
 ]
