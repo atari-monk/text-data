@@ -388,5 +388,45 @@
     "end_time": "00:35",
     "actual_minutes": 159,
     "notes": ["moved scripts to py-scripting, moved data to text-data repo"]
+  },
+  {
+    "date": "2025-04-12",
+    "project": "py-scripting",
+    "task": "4fafac0b-eeba-4b48-b235-4cd95d5641e4",
+    "estimate_minutes": 15,
+    "start_time": "18:30",
+    "end_time": "18:49",
+    "actual_minutes": 19,
+    "notes": []
+  },
+  {
+    "date": "2025-04-12",
+    "project": "py-scripting",
+    "task": "538db6db-9848-4a3f-8688-517a446d78ff",
+    "estimate_minutes": 60,
+    "start_time": "18:55",
+    "end_time": "19:38",
+    "actual_minutes": 43,
+    "notes": []
+  },
+  {
+    "date": "2025-04-12",
+    "project": "rdr2",
+    "task": "1 level",
+    "estimate_minutes": 25,
+    "start_time": "21:10",
+    "end_time": "21:59",
+    "actual_minutes": 49,
+    "notes": []
+  },
+  {
+    "date": "2025-04-12",
+    "project": "py-scripting",
+    "task": "8ec66ffb-3ff4-4ea8-a087-f524e1eae2be",
+    "estimate_minutes": 60,
+    "start_time": "22:51",
+    "end_time": "23:42",
+    "actual_minutes": 51,
+    "notes": []
   }
 ]

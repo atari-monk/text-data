@@ -1,0 +1,26 @@
+{
+    "counters": [
+        {
+            "name": "WaterPlants",
+            "start_date": "2025-04-12",
+            "interval_days": 1,
+            "initial_value": 1,
+            "labels": {
+                "1": "Water",
+                "0": "Don't water"
+            },
+			"active": true
+        },
+        {
+            "name": "EndorphinTime",
+            "start_date": "2025-04-12",
+            "interval_days": 1,
+            "initial_value": 1,
+            "labels": {
+                "1": "Pending",
+                "0": "Complete"
+            },
+			"active": true
+        }
+    ]
+}
