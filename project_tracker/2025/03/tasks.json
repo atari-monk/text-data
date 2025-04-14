@@ -7,7 +7,7 @@
     "start_time": "16:40",
     "end_time": "17:00",
     "actual_minutes": 20,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-01",
@@ -17,7 +17,7 @@
     "start_time": "17:42",
     "end_time": "18:24",
     "actual_minutes": 20,
-    "notes": ["Jest test only runs with correct test name (x.test.ts)"]
+    "note": "Jest test only runs with correct test name (x.test.ts)"
   },
   {
     "date": "2025-03-01",
@@ -27,7 +27,7 @@
     "start_time": "23:12",
     "end_time": "00:08",
     "actual_minutes": 20,
-    "notes": [""]
+    "note": ""
   },
   {
     "date": "2025-03-02",
@@ -37,10 +37,7 @@
     "start_time": "12:41",
     "end_time": "13:44",
     "actual_minutes": 20,
-    "notes": [
-      "Add option to choose the game mode",
-      "Got distracted with unrelated notes"
-    ]
+    "note": "Add option to choose the game mode"
   },
   {
     "date": "2025-03-02",
@@ -50,7 +47,7 @@
     "start_time": "14:33",
     "end_time": "14:52",
     "actual_minutes": 19,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-02",
@@ -60,7 +57,7 @@
     "start_time": "14:55",
     "end_time": "16:13",
     "actual_minutes": 78,
-    "notes": ["Failed—refactoring broke Vite and Webpack, changes discarded"]
+    "note": "Failed—refactoring broke Vite and Webpack, changes discarded"
   },
   {
     "date": "2025-03-02",
@@ -70,7 +67,7 @@
     "start_time": "16:16",
     "end_time": "16:32",
     "actual_minutes": 16,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-02",
@@ -80,7 +77,7 @@
     "start_time": "16:33",
     "end_time": "16:51",
     "actual_minutes": 18,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-02",
@@ -90,10 +87,7 @@
     "start_time": "16:51",
     "end_time": "18:28",
     "actual_minutes": 97,
-    "notes": [
-      "AI is complex. Shifted from creating 1000 classes to simplifying the problem",
-      "Two files and new functions for AI, progress step-by-step"
-    ]
+    "note": "AI is complex. Shifted from creating 1000 classes to simplifying the problem. Two files and new functions for AI, progress step-by-step"
   },
   {
     "date": "2025-03-02",
@@ -103,7 +97,7 @@
     "start_time": "19:21",
     "end_time": "21:34",
     "actual_minutes": 133,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-02",
@@ -113,7 +107,7 @@
     "start_time": "21:35",
     "end_time": "22:48",
     "actual_minutes": 73,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-02",
@@ -123,7 +117,7 @@
     "start_time": "22:49",
     "end_time": "23:06",
     "actual_minutes": 17,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-02",
@@ -133,7 +127,7 @@
     "start_time": "23:07",
     "end_time": "00:05",
     "actual_minutes": 58,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-02",
@@ -143,7 +137,7 @@
     "start_time": "00:06",
     "end_time": "00:20",
     "actual_minutes": 14,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-03",
@@ -153,7 +147,7 @@
     "start_time": "11:26",
     "end_time": "13:24",
     "actual_minutes": 118,
-    "notes": ["State machine with switchable strategies"]
+    "note": "State machine with switchable strategies"
   },
   {
     "date": "2025-03-03",
@@ -163,7 +157,7 @@
     "start_time": "13:57",
     "end_time": "15:36",
     "actual_minutes": 99,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-03",
@@ -173,7 +167,7 @@
     "start_time": "17:20",
     "end_time": "18:34",
     "actual_minutes": 74,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-03",
@@ -183,7 +177,7 @@
     "start_time": "21:05",
     "end_time": "21:41",
     "actual_minutes": 36,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-04",
@@ -193,7 +187,7 @@
     "start_time": "10:04",
     "end_time": "10:45",
     "actual_minutes": 30,
-    "notes": ["Tested Random strategy sinking ship. Fixed ending game bug"]
+    "note": "Tested Random strategy sinking ship. Fixed ending game bug"
   },
   {
     "date": "2025-03-04",
@@ -203,7 +197,7 @@
     "start_time": "10:46",
     "end_time": "13:48",
     "actual_minutes": 182,
-    "notes": ["Tested strategy for finding ship orientation"]
+    "note": "Tested strategy for finding ship orientation"
   },
   {
     "date": "2025-03-04",
@@ -213,10 +207,7 @@
     "start_time": "16:00",
     "end_time": "17:45",
     "actual_minutes": 105,
-    "notes": [
-      "Improved logging in page and console",
-      "Improved project docs structure"
-    ]
+    "note": "Improved logging in page and console, Improved project docs structure"
   },
   {
     "date": "2025-03-04",
@@ -226,7 +217,7 @@
     "start_time": "18:42",
     "end_time": "19:22",
     "actual_minutes": 40,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-04",
@@ -236,7 +227,7 @@
     "start_time": "20:48",
     "end_time": "21:04",
     "actual_minutes": 16,
-    "notes": ["Input focus, buttons handle enter one after another"]
+    "note": "Input focus, buttons handle enter one after another"
   },
   {
     "date": "2025-03-05",
@@ -246,12 +237,7 @@
     "start_time": "14:43",
     "end_time": "15:04",
     "actual_minutes": 21,
-    "notes": [
-      "No, this is just one moth data, human readable format is better for small data object.",
-      "Jsonl can append to file simpler, reads object as line.",
-      "Json read whole file as array of objects, appends and overrides whole file.",
-      "For small data set i prefer human readable format."
-    ]
+    "note": "No, this is just one moth data, human readable format is better for small data object.\nJsonl can append to file simpler, reads object as line.\nJson read whole file as array of objects, appends and overrides whole file.\nFor small data set i prefer human readable format."
   },
   {
     "date": "2025-03-05",
@@ -261,7 +247,7 @@
     "start_time": "15:05",
     "end_time": "15:22",
     "actual_minutes": 17,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-05",
@@ -271,10 +257,7 @@
     "start_time": "15:23",
     "end_time": "16:22",
     "actual_minutes": 59,
-    "notes": [
-      "Add empty strategy first.",
-      "Trying to hit next to first 2 hits that determine ship orientation."
-    ]
+    "note": "Add empty strategy first. Trying to hit next to first 2 hits that determine ship orientation."
   },
   {
     "date": "2025-03-05",
@@ -284,7 +267,7 @@
     "start_time": "20:29",
     "end_time": "21:36",
     "actual_minutes": 67,
-    "notes": ["Doc describing strategies, testing."]
+    "note": "Doc describing strategies, testing."
   },
   {
     "date": "2025-03-05",
@@ -294,7 +277,7 @@
     "start_time": "23:27",
     "end_time": "00:35",
     "actual_minutes": 68,
-    "notes": ["Step by step debug removed bugs and refined implementation."]
+    "note": "Step by step debug removed bugs and refined implementation."
   },
   {
     "date": "2025-03-06",
@@ -304,7 +287,7 @@
     "start_time": "15:17",
     "end_time": "15:36",
     "actual_minutes": 19,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-06",
@@ -314,7 +297,7 @@
     "start_time": "19:16",
     "end_time": "20:07",
     "actual_minutes": 51,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-06",
@@ -324,7 +307,7 @@
     "start_time": "21:08",
     "end_time": "21:31",
     "actual_minutes": 23,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-06",
@@ -334,7 +317,7 @@
     "start_time": "22:32",
     "end_time": "23:09",
     "actual_minutes": 37,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-07",
@@ -344,7 +327,7 @@
     "start_time": "07:54",
     "end_time": "08:30",
     "actual_minutes": 36,
-    "notes": ["Docs (log) and scripts"]
+    "note": "Docs (log) and scripts"
   },
   {
     "date": "2025-03-08",
@@ -354,7 +337,7 @@
     "start_time": "19:53",
     "end_time": "20:03",
     "actual_minutes": 10,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-08",
@@ -364,7 +347,7 @@
     "start_time": "20:14",
     "end_time": "20:41",
     "actual_minutes": 27,
-    "notes": [""]
+    "note": ""
   },
   {
     "date": "2025-03-08",
@@ -374,7 +357,7 @@
     "start_time": "22:14",
     "end_time": "22:51",
     "actual_minutes": 37,
-    "notes": ["Script removing comments"]
+    "note": "Script removing comments"
   },
   {
     "date": "2025-03-09",
@@ -384,7 +367,7 @@
     "start_time": "16:34",
     "end_time": "16:42",
     "actual_minutes": 8,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-09",
@@ -394,7 +377,7 @@
     "start_time": "18:04",
     "end_time": "18:21",
     "actual_minutes": 17,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-09",
@@ -404,7 +387,7 @@
     "start_time": "19:44",
     "end_time": "20:36",
     "actual_minutes": 52,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-09",
@@ -414,7 +397,7 @@
     "start_time": "20:37",
     "end_time": "22:03",
     "actual_minutes": 86,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-10",
@@ -424,10 +407,7 @@
     "start_time": "15:03",
     "end_time": "18:45",
     "actual_minutes": 222,
-    "notes": [
-      "Aggregation of multiple notes repositories to one blog project",
-      "Condensing all notes and data files"
-    ]
+    "note": "Aggregation of multiple notes repositories to one blog project. Condensing all notes and data files"
   },
   {
     "date": "2025-03-10",
@@ -437,10 +417,7 @@
     "start_time": "20:45",
     "end_time": "23:24",
     "actual_minutes": 159,
-    "notes": [
-      "Library of functions and script to use it",
-      "Problems in importing lib to script"
-    ]
+    "note": "Library of functions and script to use it. Problems in importing lib to script"
   },
   {
     "date": "2025-03-11",
@@ -450,7 +427,7 @@
     "start_time": "11:50",
     "end_time": "13:02",
     "actual_minutes": 72,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-11",
@@ -460,7 +437,7 @@
     "start_time": "17:20",
     "end_time": "17:27",
     "actual_minutes": 7,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-11",
@@ -470,10 +447,7 @@
     "start_time": "17:28",
     "end_time": "20:43",
     "actual_minutes": 195,
-    "notes": [
-      "Make data format simple to make its py scripts simpler.",
-      "Import data from battleship-ts project."
-    ]
+    "note": "Make data format simple to make its py scripts simpler. Import data from battleship-ts project."
   },
   {
     "date": "2025-03-12",
@@ -483,7 +457,7 @@
     "start_time": "13:20",
     "end_time": "16:00",
     "actual_minutes": 160,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-12",
@@ -493,7 +467,7 @@
     "start_time": "17:18",
     "end_time": "18:50",
     "actual_minutes": 92,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-12",
@@ -503,7 +477,7 @@
     "start_time": "22:18",
     "end_time": "00:10",
     "actual_minutes": 112,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-13",
@@ -513,7 +487,7 @@
     "start_time": "08:50",
     "end_time": "11:10",
     "actual_minutes": 140,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-13",
@@ -523,7 +497,7 @@
     "start_time": "13:28",
     "end_time": "13:55",
     "actual_minutes": 27,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-13",
@@ -533,7 +507,7 @@
     "start_time": "15:35",
     "end_time": "17:03",
     "actual_minutes": 88,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-13",
@@ -543,7 +517,7 @@
     "start_time": "23:18",
     "end_time": "00:43",
     "actual_minutes": 85,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-14",
@@ -553,7 +527,7 @@
     "start_time": "14:59",
     "end_time": "16:45",
     "actual_minutes": 106,
-    "notes": ["Pondering json formats, flat and flexible vs grouped"]
+    "note": "Pondering json formats, flat and flexible vs grouped"
   },
   {
     "date": "2025-03-14",
@@ -563,7 +537,7 @@
     "start_time": "18:04",
     "end_time": "19:48",
     "actual_minutes": 104,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-14",
@@ -573,7 +547,7 @@
     "start_time": "22:43",
     "end_time": "23:51",
     "actual_minutes": 68,
-    "notes": ["Moved folder of links"]
+    "note": "Moved folder of links"
   },
   {
     "date": "2025-03-15",
@@ -583,7 +557,7 @@
     "start_time": "13:41",
     "end_time": "16:00",
     "actual_minutes": 139,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-15",
@@ -593,7 +567,7 @@
     "start_time": "19:32",
     "end_time": "20:36",
     "actual_minutes": 64,
-    "notes": ["One folder moved to intermediate file"]
+    "note": "One folder moved to intermediate file"
   },
   {
     "date": "2025-03-15",
@@ -603,7 +577,7 @@
     "start_time": "22:28",
     "end_time": "22:59",
     "actual_minutes": 31,
-    "notes": ["Tested refactoring solar-system proj"]
+    "note": "Tested refactoring solar-system proj"
   },
   {
     "date": "2025-03-15",
@@ -613,7 +587,7 @@
     "start_time": "23:01",
     "end_time": "23:40",
     "actual_minutes": 39,
-    "notes": ["Intermediate file moved to json"]
+    "note": "Intermediate file moved to json"
   },
   {
     "date": "2025-03-16",
@@ -623,7 +597,7 @@
     "start_time": "13:04",
     "end_time": "13:27",
     "actual_minutes": 23,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-16",
@@ -633,7 +607,7 @@
     "start_time": "13:33",
     "end_time": "14:12",
     "actual_minutes": 39,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-16",
@@ -643,7 +617,7 @@
     "start_time": "16:44",
     "end_time": "17:14",
     "actual_minutes": 30,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-16",
@@ -653,7 +627,7 @@
     "start_time": "17:16",
     "end_time": "18:01",
     "actual_minutes": 45,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-16",
@@ -663,7 +637,7 @@
     "start_time": "18:57",
     "end_time": "19:34",
     "actual_minutes": 37,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-16",
@@ -673,7 +647,7 @@
     "start_time": "21:10",
     "end_time": "21:35",
     "actual_minutes": 25,
-    "notes": ["Calculate frame timing. Tired of sitting."]
+    "note": "Calculate frame timing. Tired of sitting."
   },
   {
     "date": "2025-03-16",
@@ -683,7 +657,7 @@
     "start_time": "23:06",
     "end_time": "23:22",
     "actual_minutes": 16,
-    "notes": ["More configs with values"]
+    "note": "More configs with values"
   },
   {
     "date": "2025-03-16",
@@ -693,7 +667,7 @@
     "start_time": "23:26",
     "end_time": "23:50",
     "actual_minutes": 24,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-17",
@@ -703,7 +677,7 @@
     "start_time": "18:43",
     "end_time": "19:08",
     "actual_minutes": 25,
-    "notes": ["start, end, sleep time"]
+    "note": "start, end, sleep time"
   },
   {
     "date": "2025-03-17",
@@ -713,7 +687,7 @@
     "start_time": "22:51",
     "end_time": "00:43",
     "actual_minutes": 112,
-    "notes": ["Fail, unable to produce 3 body stable orbit"]
+    "note": "Fail, unable to produce 3 body stable orbit"
   },
   {
     "date": "2025-03-18",
@@ -723,7 +697,7 @@
     "start_time": "11:11",
     "end_time": "11:16",
     "actual_minutes": 5,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-18",
@@ -733,7 +707,7 @@
     "start_time": "15:53",
     "end_time": "22:06",
     "actual_minutes": 373,
-    "notes": ["Very hard to achive stable moon orbit"]
+    "note": "Very hard to achive stable moon orbit"
   },
   {
     "date": "2025-03-19",
@@ -743,7 +717,7 @@
     "start_time": "13:42",
     "end_time": "13:50",
     "actual_minutes": 8,
-    "notes": ["New published version, added d.ts."]
+    "note": "New published version, added d.ts."
   },
   {
     "date": "2025-03-19",
@@ -753,7 +727,7 @@
     "start_time": "13:51",
     "end_time": "14:38",
     "actual_minutes": 47,
-    "notes": ["State now, automatically in console"]
+    "note": "State now, automatically in console"
   },
   {
     "date": "2025-03-23",
@@ -763,7 +737,7 @@
     "start_time": "15:46",
     "end_time": "16:07",
     "actual_minutes": 21,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-23",
@@ -773,7 +747,7 @@
     "start_time": "17:00",
     "end_time": "17:42",
     "actual_minutes": 42,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-23",
@@ -783,7 +757,7 @@
     "start_time": "19:08",
     "end_time": "20:59",
     "actual_minutes": 111,
-    "notes": ["Absolute fail, refactored many classes and tests, browser test failed. Refactor only one class at a time!"]
+    "note": "Absolute fail, refactored many classes and tests, browser test failed. Refactor only one class at a time!"
   },
   {
     "date": "2025-03-23",
@@ -793,7 +767,7 @@
     "start_time": "21:56",
     "end_time": "22:23",
     "actual_minutes": 27,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-24",
@@ -803,7 +777,7 @@
     "start_time": "13:00",
     "end_time": "13:36",
     "actual_minutes": 36,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-24",
@@ -813,7 +787,7 @@
     "start_time": "18:47",
     "end_time": "19:28",
     "actual_minutes": 41,
-    "notes": ["One file for BattleshipGrid.test.ts"]
+    "note": "One file for BattleshipGrid.test.ts"
   },
   {
     "date": "2025-03-24",
@@ -823,7 +797,7 @@
     "start_time": "21:30",
     "end_time": "23:00",
     "actual_minutes": 0,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-25",
@@ -833,7 +807,7 @@
     "start_time": "09:28",
     "end_time": "10:15",
     "actual_minutes": 47,
-    "notes": ["Updated some tests, class code that is tested, eventually, is written so its easy to test"]
+    "note": "Updated some tests, class code that is tested, eventually, is written so its easy to test"
   },
   {
     "date": "2025-03-25",
@@ -843,7 +817,7 @@
     "start_time": "11:12",
     "end_time": "11:25",
     "actual_minutes": 13,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-25",
@@ -853,7 +827,7 @@
     "start_time": "11:26",
     "end_time": "11:47",
     "actual_minutes": 21,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-25",
@@ -863,7 +837,7 @@
     "start_time": "12:54",
     "end_time": "13:40",
     "actual_minutes": 46,
-    "notes": ["Moved chrome scripts to lib, make lib and use it from master script"]
+    "note": "Moved chrome scripts to lib, make lib and use it from master script"
   },
   {
     "date": "2025-03-25",
@@ -873,7 +847,7 @@
     "start_time": "13:42",
     "end_time": "13:53",
     "actual_minutes": 11,
-    "notes": ["Optimalizations of implementation"]
+    "note": "Optimalizations of implementation"
   },
   {
     "date": "2025-03-25",
@@ -883,7 +857,7 @@
     "start_time": "14:15",
     "end_time": "14:43",
     "actual_minutes": 28,
-    "notes": ["Remove hack of private prop in test"]
+    "note": "Remove hack of private prop in test"
   },
   {
     "date": "2025-03-25",
@@ -893,7 +867,7 @@
     "start_time": "14:44",
     "end_time": "15:17",
     "actual_minutes": 33,
-    "notes": ["Making sure class, test and documentation is valid (part done)"]
+    "note": "Making sure class, test and documentation is valid (part done)"
   },
   {
     "date": "2025-03-25",
@@ -903,7 +877,7 @@
     "start_time": "16:06",
     "end_time": "16:24",
     "actual_minutes": 18,
-    "notes": ["Prompt script, refactor to lib functions and script"]
+    "note": "Prompt script, refactor to lib functions and script"
   },
   {
     "date": "2025-03-25",
@@ -913,7 +887,7 @@
     "start_time": "16:29",
     "end_time": "16:45",
     "actual_minutes": 16,
-    "notes": ["Prompt to clipboard script, refactor to lib functions and script"]
+    "note": "Prompt to clipboard script, refactor to lib functions and script"
   },
   {
     "date": "2025-03-25",
@@ -923,7 +897,7 @@
     "start_time": "17:17",
     "end_time": "11:12",
     "actual_minutes": 1075,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-25",
@@ -933,7 +907,7 @@
     "start_time": "17:18",
     "end_time": "18:04",
     "actual_minutes": 46,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-25",
@@ -943,7 +917,7 @@
     "start_time": "18:05",
     "end_time": "18:18",
     "actual_minutes": 13,
-    "notes": ["vite configs to produce bundle"]
+    "note": "vite configs to produce bundle"
   },
   {
     "date": "2025-03-25",
@@ -953,7 +927,7 @@
     "start_time": "18:51",
     "end_time": "19:14",
     "actual_minutes": 23,
-    "notes": ["Toogle input UI based on game mode"]
+    "note": "Toogle input UI based on game mode"
   },
   {
     "date": "2025-03-25",
@@ -963,7 +937,7 @@
     "start_time": "19:40",
     "end_time": "20:47",
     "actual_minutes": 67,
-    "notes": ["Published first version with AI able to win if player plays badly"]
+    "note": "Published first version with AI able to win if player plays badly"
   },
   {
     "date": "2025-03-25",
@@ -973,7 +947,7 @@
     "start_time": "21:35",
     "end_time": "23:00",
     "actual_minutes": 0,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-26",
@@ -983,7 +957,7 @@
     "start_time": "15:15",
     "end_time": "16:27",
     "actual_minutes": 72,
-    "notes": ["Version for my phone"]
+    "note": "Version for my phone"
   },
   {
     "date": "2025-03-26",
@@ -993,7 +967,7 @@
     "start_time": "18:01",
     "end_time": "19:50",
     "actual_minutes": 109,
-    "notes": ["Text version playeable on mobile, bearly but playable"]
+    "note": "Text version playeable on mobile, bearly but playable"
   },
   {
     "date": "2025-03-26",
@@ -1003,7 +977,7 @@
     "start_time": "22:37",
     "end_time": "00:54",
     "actual_minutes": 137,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-27",
@@ -1013,7 +987,7 @@
     "start_time": "10:32",
     "end_time": "11:42",
     "actual_minutes": 70,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-27",
@@ -1023,7 +997,7 @@
     "start_time": "13:59",
     "end_time": "15:10",
     "actual_minutes": 71,
-    "notes": ["added test that fails, reproduces bug as a start to fix it"]
+    "note": "added test that fails, reproduces bug as a start to fix it"
   },
   {
     "date": "2025-03-27",
@@ -1033,7 +1007,7 @@
     "start_time": "18:04",
     "end_time": "19:41",
     "actual_minutes": 97,
-    "notes": ["Four egde tested in unit test and in ai test in runtime"]
+    "note": "Four egde tested in unit test and in ai test in runtime"
   },
   {
     "date": "2025-03-27",
@@ -1043,7 +1017,7 @@
     "start_time": "23:15",
     "end_time": "01:17",
     "actual_minutes": 122,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-28",
@@ -1053,7 +1027,7 @@
     "start_time": "17:54",
     "end_time": "22:21",
     "actual_minutes": 267,
-    "notes": ["At last fixed bug with ship on edge and corner, still bugs in input and found some when playing"]
+    "note": "At last fixed bug with ship on edge and corner, still bugs in input and found some when playing"
   },
   {
     "date": "2025-03-29",
@@ -1063,7 +1037,7 @@
     "start_time": "12:04",
     "end_time": "14:04",
     "actual_minutes": 120,
-    "notes": ["Removing notes files, merging, moving"]
+    "note": "Removing notes files, merging, moving"
   },
   {
     "date": "2025-03-29",
@@ -1073,7 +1047,7 @@
     "start_time": "16:23",
     "end_time": "18:31",
     "actual_minutes": 128,
-    "notes": ["Gui of message box, removing, merging notes"]
+    "note": "Gui of message box, removing, merging notes"
   },
   {
     "date": "2025-03-29",
@@ -1083,7 +1057,7 @@
     "start_time": "23:30",
     "end_time": "00:24",
     "actual_minutes": 54,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-30",
@@ -1093,7 +1067,7 @@
     "start_time": "22:30",
     "end_time": "03:02",
     "actual_minutes": 272,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-30",
@@ -1103,7 +1077,7 @@
     "start_time": "10:19",
     "end_time": "17:00",
     "actual_minutes": 0,
-    "notes": ["video day"]
+    "note": "video day"
   },
   {
     "date": "2025-03-30",
@@ -1113,7 +1087,7 @@
     "start_time": "18:56",
     "end_time": "19:50",
     "actual_minutes": 54,
-    "notes": ["added battleship-ts"]
+    "note": "added battleship-ts"
   },
   {
     "date": "2025-03-30",
@@ -1123,7 +1097,7 @@
     "start_time": "21:46",
     "end_time": "23:52",
     "actual_minutes": 126,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-31",
@@ -1133,7 +1107,7 @@
     "start_time": "08:29",
     "end_time": "10:03",
     "actual_minutes": 94,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-31",
@@ -1143,7 +1117,7 @@
     "start_time": "10:40",
     "end_time": "11:13",
     "actual_minutes": 33,
-    "notes": []
+    "note": ""
   },
   {
     "date": "2025-03-31",
@@ -1153,6 +1127,6 @@
     "start_time": "17:22",
     "end_time": "19:15",
     "actual_minutes": 113,
-    "notes": []
+    "note": ""
   }
 ]
